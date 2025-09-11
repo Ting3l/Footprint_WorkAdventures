@@ -878,6 +878,10 @@
         {
          "firstgid":4166,
          "source":"basic_tileset_and_assets_standard\/MegaPixel.tsx"
+        }, 
+        {
+         "firstgid":4670,
+         "source":"tilesets\/Mega.tsx"
         }],
  "tilewidth":32,
  "type":"map",
