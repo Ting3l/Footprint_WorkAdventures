@@ -882,6 +882,19 @@
         {
          "firstgid":4670,
          "source":"tilesets\/Mega.tsx"
+        }, 
+        {
+         "columns":14,
+         "firstgid":5174,
+         "image":"tilesets\/Mega\/MegaPixelArt32x32pxIcons_SpriteSheet.png",
+         "imageheight":1152,
+         "imagewidth":448,
+         "margin":0,
+         "name":"Mega",
+         "spacing":0,
+         "tilecount":504,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
